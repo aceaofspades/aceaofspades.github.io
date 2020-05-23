@@ -42,8 +42,7 @@ PROJECTS = [
 SOCIAL = (
     ("github", "http://github.com/aceaofspades"),
     ("linkedin", "https://www.linkedin.com/in/Acea-sands-15939588/"),
-    ("RSS", "https://ldsands.github.io/feeds/all.rss"),
-    ("cc-paypal", "paypal.me/ldsands"),
+    ("RSS", "https://aceaofspades.github.io/feeds/all.rss"),
 )
 
 
@@ -56,7 +55,7 @@ SOCIAL = (
 # GOOGLE_ANALYTICS = "233615342" #This would be nice
 
 ## Configure if you use Disqus for comments
-# DISQUS_SITENAME = "ldsands-github-io"
+# DISQUS_SITENAME = "aceaofspades-github-io"
 # DISQUS_DISPLAY_COUNTS = True
 
 
@@ -79,7 +78,7 @@ PHOTO_THUMB = (192, 144, 60)
 PHOTO_SQUARE_THUMB = False
 PHOTO_RESIZE_JOBS = 5
 PHOTO_WATERMARK = True
-PHOTO_WATERMARK_TEXT = "© Acea Sands (https://ldsands.github.io)"
+PHOTO_WATERMARK_TEXT = "© Acea Sands (https://aceaofspades.github.io)"
 PHOTO_WATERMARK_IMG = ""
 PHOTO_EXIF_KEEP = False
 PHOTO_EXIF_REMOVE_GPS = True

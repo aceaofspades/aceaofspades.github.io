@@ -23,6 +23,4 @@ Iowa City, IA 52242
 
 Feel free to email me as well: [levi-sands@uiowa.edu](levi-sands@uiowa.edu)
 
-If you enjoy any of my projects feel free to donate at [PayPal](https://paypal.me/ldsands)
-
 ![black logo image]({static}../images/Levi-Sands.jpg)
