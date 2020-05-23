@@ -197,7 +197,7 @@ AUTHORS = {
     "Acea Sands": {
         "url": "https://github.com/aceaofspades",
         "blurb": "Masters Student in Data Analytics at Utah State University",
-        "avatar": "/images/Levi_Sands_cropped_square.jpg",  # TODO: get a new photo
+        "avatar": "/images/Acea_Sands.jpg",  # TODO: get a new photo
     },
 }
 

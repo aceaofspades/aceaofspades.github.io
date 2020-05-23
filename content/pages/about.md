@@ -9,4 +9,4 @@ I'm Acea Sands
 
 Below is an image test
 
-![black logo image]({static}../images/Levi-Sands.jpg)
+![black logo image]({static}../images/Acea-Sands.jpg)
