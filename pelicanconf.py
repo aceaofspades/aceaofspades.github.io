@@ -13,8 +13,8 @@ SITEURL = "/"
 DEFAULT_LANG = "en"
 DEFAULT_CATEGORY = "blog"
 # CLAIM_GOOGLE = "oL6Jp_KkQs_3edr0qL0hGozJMZpO4TIdEnGGwhs7TOg"
-# CLAIM_GOOGLE = "google-site-verification=oL6Jp_KkQs_3edr0qL0hGozJMZpO4TIdEnGGwhs7TOg"
-# CLAIM_BING = "9B15C0BB70D67916C8D0F36B66E81C40"
+CLAIM_GOOGLE = "google-site-verification=oL6Jp_KkQs_3edr0qL0hGozJMZpO4TIdEnGGwhs7TOg"
+CLAIM_BING = "9B15C0BB70D67916C8D0F36B66E81C40"
 
 
 LANDING_PAGE_ABOUT = {
@@ -28,6 +28,11 @@ PROJECTS = [
         "name": "Modern Tableau Dashboard",
         "url": "https://public.tableau.com/profile/acea.sands#!/vizhome/VideoGameSales-ModernDashboard/ModernDashboard",
         "description": "An example of a modern dashboard set up, built in Tableau Desktop.",
+    },
+    {
+        "name": "PasteRegEx",
+        "url": "https://github.com/ldsands/PasteRegEx",
+        "description": "Extenstion for Visual Studio Code That Helps With String Manipuplation",
     },
 ]
 
@@ -52,7 +57,7 @@ SOCIAL = (
 
 # GOOGLE_ANALYTICS tracking ID
 # GOOGLE_ANALYTICS = "UA-81705-12"
-# GOOGLE_ANALYTICS = "233615342" #This would be nice
+GOOGLE_ANALYTICS = "233615342"  # This would be nice
 
 ## Configure if you use Disqus for comments
 # DISQUS_SITENAME = "aceaofspades-github-io"
