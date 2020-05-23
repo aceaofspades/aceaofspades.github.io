@@ -6,15 +6,15 @@ import datetime
 ## THINGS TO CONFIGURE
 ## ---------------------------------------------------------------------
 
-AUTHOR = "Levi Sands"
-SITENAME = "Levi Sands"
+AUTHOR = "Acea Sands"
+SITENAME = "Acea Sands"
 SITESUBTITLE = "Personal Blog Website"
 SITEURL = "/"
 DEFAULT_LANG = "en"
 DEFAULT_CATEGORY = "blog"
 # CLAIM_GOOGLE = "oL6Jp_KkQs_3edr0qL0hGozJMZpO4TIdEnGGwhs7TOg"
-CLAIM_GOOGLE = "google-site-verification=oL6Jp_KkQs_3edr0qL0hGozJMZpO4TIdEnGGwhs7TOg"
-CLAIM_BING = "9B15C0BB70D67916C8D0F36B66E81C40"
+# CLAIM_GOOGLE = "google-site-verification=oL6Jp_KkQs_3edr0qL0hGozJMZpO4TIdEnGGwhs7TOg"
+# CLAIM_BING = "9B15C0BB70D67916C8D0F36B66E81C40"
 
 
 LANDING_PAGE_ABOUT = {
@@ -25,39 +25,9 @@ LANDING_PAGE_ABOUT = {
 
 PROJECTS = [
     {
-        "name": "PasteRegEx",
-        "url": "https://github.com/ldsands/PasteRegEx",
-        "description": "Extenstion for Visual Studio Code That Helps With String Manipuplation",
-    },
-    {
-        "name": "SandsPythonFunction",
-        "url": "https://github.com/ldsands/SandsPythonFunctions",
-        "description": "Terrible Name, but Lots of Useful Functions for Python",
-    },
-    {
-        "name": "Levi's Blog ",
-        "url": "https://ldsands.github.io",
-        "description": "My Personal Blog for Posts About Sociology, Politics, and Whatever I Happen to Be Thinking About",
-    },
-    {
-        "name": "UsefulCodeSnippets",
-        "url": "https://github.com/ldsands/UsefulCodeSnippets",
-        "description": "A Github Repository for All of My Useful Code and Computer Instructions and Resources",
-    },
-    {
-        "name": "DocumentAnalyzerCS",
-        "url": "https://github.com/ldsands/DocumentAnalyzerCS",
-        "description": "A Document Converter and Eventually I Hope to Be a Grading Assistant",
-    },
-    {
-        "name": "Logit.jl",
-        "url": "https://github.com/ldsands/logit.jl",
-        "description": "Julia implementation of logistic regression package loosely based upon SPost13 for Stata by J. Scott Long PhD at Indiana University",
-    },
-    {
-        "name": "CVMarkdownDocx",
-        "url": "https://github.com/ldsands/CVMarkdownDocx",
-        "description": "A CV Markdown to DocX Converter Using Pandoc",
+        "name": "Modern Tableau Dashboard",
+        "url": "https://public.tableau.com/profile/acea.sands#!/vizhome/VideoGameSales-ModernDashboard/ModernDashboard",
+        "description": "An example of a modern dashboard set up, built in Tableau Desktop.",
     },
 ]
 
@@ -70,9 +40,8 @@ PROJECTS = [
 # Keep 'name' like 'twitter' with what 'FontAwesome has for putting the right icon'
 
 SOCIAL = (
-    ("Twitter", "https://twitter.com/ldsands"),
-    ("github", "http://github.com/ldsands"),
-    ("linkedin", "https://www.linkedin.com/in/levi-sands-15939588/"),
+    ("github", "http://github.com/aceaofspades"),
+    ("linkedin", "https://www.linkedin.com/in/Acea-sands-15939588/"),
     ("RSS", "https://ldsands.github.io/feeds/all.rss"),
     ("cc-paypal", "paypal.me/ldsands"),
 )
@@ -84,11 +53,11 @@ SOCIAL = (
 
 # GOOGLE_ANALYTICS tracking ID
 # GOOGLE_ANALYTICS = "UA-81705-12"
-GOOGLE_ANALYTICS = "233615342"
+# GOOGLE_ANALYTICS = "233615342" #This would be nice
 
 ## Configure if you use Disqus for comments
-DISQUS_SITENAME = "ldsands-github-io"
-DISQUS_DISPLAY_COUNTS = True
+# DISQUS_SITENAME = "ldsands-github-io"
+# DISQUS_DISPLAY_COUNTS = True
 
 
 # Extra files customization
@@ -110,7 +79,7 @@ PHOTO_THUMB = (192, 144, 60)
 PHOTO_SQUARE_THUMB = False
 PHOTO_RESIZE_JOBS = 5
 PHOTO_WATERMARK = True
-PHOTO_WATERMARK_TEXT = "© Levi Sands (https://ldsands.github.io)"
+PHOTO_WATERMARK_TEXT = "© Acea Sands (https://ldsands.github.io)"
 PHOTO_WATERMARK_IMG = ""
 PHOTO_EXIF_KEEP = False
 PHOTO_EXIF_REMOVE_GPS = True
@@ -226,10 +195,10 @@ PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
 
 AUTHORS = {
-    "Levi Sands": {
-        "url": "https://ldsands.github.io/about",
-        "blurb": "PhD Candidate in Sociology at the University of Iowa",
-        "avatar": "/images/Levi_Sands_cropped_square.jpg",
+    "Acea Sands": {
+        "url": "https://github.com/aceaofspades",
+        "blurb": "Masters Student in Data Analytics at Utah State University",
+        # "avatar": "/images/Acea_Sands_cropped_square.jpg", TODO: get a new photo
     },
 }
 
