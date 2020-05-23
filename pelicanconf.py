@@ -29,11 +29,6 @@ PROJECTS = [
         "url": "https://public.tableau.com/profile/acea.sands#!/vizhome/VideoGameSales-ModernDashboard/ModernDashboard",
         "description": "An example of a modern dashboard set up, built in Tableau Desktop.",
     },
-    {
-        "name": "PasteRegEx",
-        "url": "https://github.com/ldsands/PasteRegEx",
-        "description": "Extenstion for Visual Studio Code That Helps With String Manipuplation",
-    },
 ]
 
 
@@ -45,7 +40,7 @@ PROJECTS = [
 # Keep 'name' like 'twitter' with what 'FontAwesome has for putting the right icon'
 
 SOCIAL = (
-    ("github", "http://github.com/aceaofspades"),
+    ("github", "https://github.com/aceaofspades"),
     ("linkedin", "https://www.linkedin.com/in/Acea-sands-15939588/"),
     ("RSS", "https://aceaofspades.github.io/feeds/all.rss"),
 )
@@ -200,7 +195,7 @@ PAGE_SAVE_AS = "{slug}/index.html"
 
 AUTHORS = {
     "Acea Sands": {
-        "url": "https://github.com/aceaofspades",
+        "url": "https://aceaofspades.github.io/about",
         "blurb": "Masters Student in Data Analytics at Utah State University",
         "avatar": "/images/Acea_Sands.jpg",  # TODO: get a new photo
     },
